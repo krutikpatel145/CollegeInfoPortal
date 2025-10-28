@@ -22,7 +22,7 @@ Developed as part of the **Web Technologies with .NET** course, it showcases:
 ## ⚙️ Prerequisites
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)  
 - (Optional) [Git](https://git-scm.com/downloads) — for cloning the repository  
-- Code editor: **Visual Studio 2022** or **Visual Studio Code**
+- Code editor: **Visual Studio Code**
 
 ---
 
