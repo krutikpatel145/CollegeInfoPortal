@@ -61,7 +61,8 @@ Developed as part of the **Web Technologies with .NET** course, it showcases:
 3. The homepage of the **College Information Portal** will appear.
    The database will be automatically created and populated with sample data.
    
-   
+---
+
 ## 🧠 Technologies Used
 
 ASP.NET Core MVC (C#)
