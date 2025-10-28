@@ -38,7 +38,6 @@ Developed as part of the **Web Technologies with .NET** course, it showcases:
 
 2. **Open the Project**
    - In **Visual Studio Code**: open the folder and install the C# extension  
-   - In **Visual Studio 2022**: open `CollegeInfoPortal.sln` and press **F5** to run
 
 3. **Restore Dependencies**
    ```bash
