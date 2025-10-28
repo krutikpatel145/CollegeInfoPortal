@@ -48,6 +48,8 @@ Developed as part of the **Web Technologies with .NET** course, it showcases:
    ```bash
    dotnet build
    ```
+---
+
 ## 🚀 How to Run the Project
 
 1. **Run the app:**
