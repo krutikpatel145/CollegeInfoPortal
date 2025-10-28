@@ -1,4 +1,3 @@
-
 # 🎓 College Information Portal
 
 ## 📘 Project Title
@@ -21,17 +20,13 @@ Developed as part of the **Web Technologies with .NET** course, it showcases:
 ---
 
 ## ⚙️ Prerequisites
-- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) (required)  
+- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)  
 - (Optional) [Git](https://git-scm.com/downloads) — for cloning the repository  
-- A code editor such as **Visual Studio 2022** or **Visual Studio Code**
-
-> On the first run, the app automatically creates a local SQLite database file named **college.db** and seeds example data.  
-> (See `Data/DbSeeder.cs` and `context.Database.EnsureCreated()` in `Program.cs`.)
+- Code editor: **Visual Studio 2022** or **Visual Studio Code**
 
 ---
 
 ## 📦 Installation Steps
-
 1. **Download or Clone the Repository**
    - For developers:
      ```bash
@@ -48,55 +43,35 @@ Developed as part of the **Web Technologies with .NET** course, it showcases:
 3. **Restore Dependencies**
    ```bash
    dotnet restore
-````
-
+   ```
 4. **Build the Project**
-
    ```bash
    dotnet build
    ```
-
----
-
 ## 🚀 How to Run the Project
 
-1. Run the app:
-
+1. **Run the app:**
    ```bash
    dotnet run
    ```
-2. Open your browser and go to:
-
-   ```
+2. **Open your browser and go to:**
+   ```bash
    https://localhost:5001
    ```
 3. The homepage of the **College Information Portal** will appear.
    The database will be automatically created and populated with sample data.
-
----
-
-## 🌐 API Endpoint (Optional Feature)
-
-A sample **Courses API** is available at:
-
-```
-/api/courses
-```
-
-You can test it with:
-
-```bash
-curl https://localhost:5001/api/courses
-```
-
----
-
+   
+   
 ## 🧠 Technologies Used
 
-* ASP.NET Core MVC (C#)
-* Entity Framework Core (Code First)
-* Razor Views
-* Bootstrap 5
-* SQLite / MySQL (for persistence)
-* Visual Studio Code or Visual Studio 2022
+ASP.NET Core MVC (C#)
 
+Entity Framework Core (Code First)
+
+Razor Views
+
+Bootstrap 5
+
+SQLite / MySQL
+
+Visual Studio Code 
