@@ -30,7 +30,7 @@ Developed as part of the **Web Technologies with .NET** course, it showcases:
 1. **Download or Clone the Repository**
    - For developers:
      ```bash
-     git clone https://github.com/krutikpatel45/CollegeInfoPortal.git
+     git clone https://github.com/krutikpatel145/CollegeInfoPortal.git
      ```
    - For non-developers:
      - Click **Code → Download ZIP**
