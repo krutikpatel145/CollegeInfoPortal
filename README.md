@@ -22,7 +22,7 @@ Developed as part of the **Web Technologies with .NET** course, it showcases:
 ## ⚙️ Prerequisites
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)  
 - (Optional) [Git](https://git-scm.com/downloads) — for cloning the repository  
-- Code editor: **Visual Studio Code**
+- Code editor: Visual Studio Code
 
 ---
 
@@ -30,7 +30,7 @@ Developed as part of the **Web Technologies with .NET** course, it showcases:
 1. **Download or Clone the Repository**
    - For developers:
      ```bash
-     git clone https://github.com/yourusername/CollegeInfoPortal.git
+     git clone https://github.com/krutikpatel45/CollegeInfoPortal.git
      ```
    - For non-developers:
      - Click **Code → Download ZIP**
@@ -68,7 +68,7 @@ Developed as part of the **Web Technologies with .NET** course, it showcases:
 
 ASP.NET Core MVC (C#)
 
-Entity Framework Core (Code First)
+Entity Framework Core 
 
 Razor Views
 
